@@ -3,6 +3,9 @@ void setup() {
   stroke(100);
 }
 void draw() {
-  background(83, 208, 171);
+  background(160, 222, 126);
+}
+
+void mousePressed() {
   line(150, 25, mouseX, mouseY);
 }
