@@ -1,0 +1,6 @@
+{
+    "java.project.sourcePaths": [
+        "src/hellomouse/application.macosx/source",
+        "src/hellomouse/application.linux/source"
+    ]
+}
